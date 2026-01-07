@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Vinayak Gupta
 
-<!--
-**vinayakgupta07/vinayakgupta07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+🎓 B.Tech CSE Student  
+💻 Aspiring Web Developer  
+🌱 Currently learning JavaScript & Frontend Development  
+🔥 Interested in building real-world projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- HTML  
+- CSS  
+- JavaScript  
+- Git & GitHub  
+
+---
+
+## 📂 Projects
+- ⏰ Digital Clock  
+- 🎮 Tic Tac Toe Game  
+- ⚖️ BMI Calculator  
+- 🎨 Color Changer  
+
+---
+
+## 🎯 Goals
+- Become a full-stack developer  
+- Contribute to open source  
+- Build impactful projects  
+
+---
+
+## 📫 Contact Me
+- GitHub: https://github.com/vinayakgupta07  
+- Email: gupta.vinayak2076@gmail.com
+
+---
+
+⭐ *Thanks for visiting my profile!*
