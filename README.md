@@ -12,7 +12,8 @@
 - HTML  
 - CSS  
 - JavaScript  
-- Git & GitHub  
+- Git & GitHub
+- c++
 
 ---
 
