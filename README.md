@@ -14,6 +14,8 @@
 - JavaScript  
 - Git & GitHub
 - c++
+- python
+- flask
 
 ---
 
